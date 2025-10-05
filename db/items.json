@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Baseball",
+    "price": 25,
+    "size": "m"
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "price": 60,
+    "size": "l"
+  },
+  {
+    "id": 3,
+    "name": "Baseball Cap",
+    "price": 15,
+    "size": "s"
+  },
+  {
+    "id": 4,
+    "name": "Baseball hat",
+    "price": 200,
+    "size": "s"
+  },
+  {
+    "id": 5,
+    "name": "football",
+    "price": 30,
+    "size": "l"
+  }
+]
